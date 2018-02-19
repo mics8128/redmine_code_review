@@ -3,7 +3,7 @@
   label_show_review: 檢視審查
   code_reviews: 程式碼審查
   code_review: 程式碼審查
-  project_module_code_review: 程式審查
+  project_module_code_review: 程式碼審查
   label_code_path: 路徑
 
   label_code_reviewer: 程式碼審查者
@@ -26,7 +26,7 @@
   review_notify_only_involved_in: "僅包含我參加的工作"
   review_notify_all: "所有我參加專案的審查"
 
-  old_review_data_found: 'Some old review records were found. Do you want to convert them to new records ?'
+  old_review_data_found: '發現舊的審查紀錄. 請問要轉換為新審查紀錄嗎?'
   select_tracker_for_code_reviews: 'Select the tracker for assign to code reviews.'
   field_hide_code_review_tab: 隱藏程式碼審查分頁
   lable_no_code_reviews: 無審查者
@@ -47,12 +47,12 @@
   select_tracker_for_code_review_assignment: 'Select the tracker for code review assignments.'
   field_assignment_tracker: 'Tracker'
   review_assignments: Review assignments
-  review_assigned_for: Review assigned for
-  code_review_assigned: Assigned
-  code_review_reviewed: Reviewed
-  code_review_requrest: Review request
+  review_assigned_for: 審查分派給
+  code_review_assigned: 已分派
+  code_review_reviewed: 已審查
+  code_review_requrest: 請求程式碼審查
 
-  label_auto_assign_settings: Auto assignment
+  label_auto_assign_settings: 自動分派
   label_candidates_of_reviewer: Candidates of reviewer
   label_auto_assignment_filters: Filters
   auto_assign_filter_expression: 'Path(Regular expression:ex. "/src/.*\.java$")'
